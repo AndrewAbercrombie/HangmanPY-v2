@@ -6,9 +6,9 @@ Hangman V2 is developed by me, Andrew Abercrombie. I got bored one day and reali
 
 ## Installation
 
-git clone 
-
 ```bash
+git clone https://github.com/AndrewAbercrombie/HangmanPY-v2.git
+
 python Hangman.py
 ```
 
